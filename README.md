@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="./space-animation.gif"
+       width="100%"
+       alt="Tanish futuristic space animation"/>
+</div>
  <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,30:101D3A,65:174B65,100:00F5B8&text=TANISH%20UTTAM&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=TECHNOLOGY%20%7C%20BUSINESS%20%7C%20INNOVATION&descSize=17&descAlignY=60&animation=twinkling" width="100%"/>
