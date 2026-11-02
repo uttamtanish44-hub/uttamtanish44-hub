@@ -1,84 +1,92 @@
  <div align="center">
 
-<!-- 🌌 FUTURISTIC SPACE HEADER -->
+<!-- SPACE HEADER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:050816,25:101D35,55:163D50,100:00F5B8&text=TANISH%20UTTAM&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=TECHNOLOGY%20%E2%80%A2%20BUSINESS%20%E2%80%A2%20INNOVATION&descSize=16&descAlignY=62&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050816,25:101D35,60:16465A,100:00F5B8&text=TANISH%20UTTAM&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=TECHNOLOGY%20%7C%20BUSINESS%20%7C%20INNOVATION&descSize=17&descAlignY=60&animation=twinkling"/>
 
-<br/>
-
-🌙　✨　🪐　🚀　⭐　🛰️　☄️　✨
+🌙　✨　🪐　🚀　⭐　🛰️　☄️
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=19&duration=2200&pause=700&color=00F5B8&center=true&vCenter=true&width=850&lines=FULL+STACK+DEVELOPER;AI+%26+TECHNOLOGY+ENTHUSIAST;PRODUCT+%26+BUSINESS+EXPLORER;DATA-DRIVEN+PROBLEM+SOLVER;BUILDING+IDEAS+INTO+REALITY+%F0%9F%9A%80"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=tanishuttam&style=for-the-badge&color=00F5B8&label=SPACE+VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=tanishuttam&style=for-the-badge&color=00F5B8&label=PROFILE+VISITORS"/>
 <img src="https://img.shields.io/github/followers/tanishuttam?style=for-the-badge&color=8B5CF6&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/tanishuttam?style=for-the-badge&color=00D9FF&label=STARS"/>
-
-<br/><br/>
-
-**`EXPLORE • BUILD • ANALYZE • INNOVATE`**
-
-🌌 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🌌
 
 </div>
-
-# 👨‍🚀 ABOUT THE DEVELOPER
-
-Hey there! I'm **Tanish Uttam**, a Computer Science and Engineering student at Sanskriti University, passionate about technology, business innovation, product development, and solving real-world problems.
-
-I believe that great ideas become successful products when technology meets business understanding, creativity, data, and user experience.
-
-With a foundation in programming, web development, databases, and analytical thinking, I enjoy exploring different areas of the technology and business ecosystem.
-
-I've worked on projects like **The Grievance Hub – Smart Campus Complaint Management System** and **StackStart – Full-Stack Development Learning Platform**. I've also gained professional experience as a **Frontend Developer Intern at Saemos**.
-
-Beyond coding, I'm interested in understanding how products are conceptualized, developed, marketed, analyzed, and scaled.
-
-### ✨ My Interests
-
-- 🤖 Artificial Intelligence and AI-powered solutions.
-- 🚀 Product Management and Product Development.
-- 📊 Data Analytics and Business Intelligence.
-- 💼 Business Development and Growth Strategies.
-- 📈 Sales, Marketing and Market Research.
-- 💻 Full-Stack Development and Software Engineering.
-- 🧠 Problem Solving, Innovation and Strategic Thinking.
-
-### 🎯 My Mindset
-
-**Think beyond code. Understand problems. Build solutions. Create impact.**
 
 ---
 
-# 🌐 OPEN TO OPPORTUNITIES
+# 👨‍🚀 ABOUT ME
+
+<table>
+<tr>
+<td width="34%" align="center" valign="middle">
+
+<img src="./288834905.jpg" width="230" alt="Tanish Uttam Profile Photo"/>
+
+<br/><br/>
+
+**TANISH UTTAM**
+
+<sub>Computer Science Engineer</sub>
+
+<br/>
+
+📍 India
+
+🎓 Sanskriti University
+
+💻 Developer & Innovator
+
+</td>
+<td width="66%" valign="middle">
+
+Hey there! I'm **Tanish Uttam**, a Computer Science and Engineering student at Sanskriti University, passionate about technology, business innovation, product development, and solving real-world problems.
+
+I believe great products are built when technology, creativity, business understanding, and data come together.
+
+I enjoy developing web applications, exploring Artificial Intelligence, understanding user needs, analysing problems, and discovering how businesses create and scale successful products.
+
+I've worked on projects like **The Grievance Hub** and **StackStart**, and gained professional experience as a Frontend Developer Intern at Saemos.
+
+Beyond coding, I'm interested in product strategy, business development, analytics, marketing, and innovation.
+
+**My mindset:** Think beyond code. Understand problems. Build solutions. Create impact.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🎯 OPEN TO OPPORTUNITIES
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS%20%26%20OPPORTUNITIES-00F5B8?style=for-the-badge&logo=handshake&logoColor=black"/>
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-00C853?style=for-the-badge&logo=handshake&logoColor=white"/>
 
-### Technology × Product × Business × Analytics
+**TECHNOLOGY × PRODUCT × BUSINESS × ANALYTICS**
 
 </div>
 
-I'm actively exploring internship opportunities, entry-level roles, and collaborative experiences across technology, business, product, and analytical domains.
+I'm actively exploring internships, entry-level positions, and professional opportunities across multiple domains.
 
-| Domain | Interested Roles |
+| Domain | Interested Positions |
 |---|---|
 | 🤖 Artificial Intelligence | AI Intern, AI Associate, AI Product Associate |
 | 🚀 Product Management | Product Management Intern, Associate Product Manager |
 | 📊 Product Analytics | Product Analyst, Product Operations Associate |
-| 📈 Data & Analytics | Data Analyst Intern, Business Analyst |
+| 📈 Data Analytics | Data Analyst Intern, Business Analyst |
 | 💼 Business Development | Business Development Associate (BDA), Business Development Intern |
-| 📣 Sales | Sales Associate, Sales Development Representative (SDR) |
+| 📣 Sales | Sales Associate, Sales Development Representative |
 | 📢 Marketing | Digital Marketing Intern, Marketing Associate |
 | 🌱 Growth & Strategy | Growth Associate, Strategy & Operations Intern |
 | 💻 Software Development | Frontend Developer, Full Stack Developer, MERN Stack Developer |
 
-**What I bring:** A technical foundation, curiosity about business, analytical thinking, communication skills, creativity, and willingness to learn.
+I bring a technical foundation, analytical thinking, curiosity about business, communication skills, creativity, and a strong willingness to learn.
 
-I'm particularly interested in opportunities where I can understand customer needs, identify business problems, analyze information, collaborate with teams, and contribute to building or growing impactful products.
+I'm particularly interested in roles where I can understand customer needs, identify opportunities, analyse information, collaborate with teams, and contribute to building or growing impactful products.
 
 ---
 
@@ -86,32 +94,32 @@ I'm particularly interested in opportunities where I can understand customer nee
 
 <div align="center">
 
-### 💻 Programming Languages
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=js,python,java,html,css&theme=dark"/>
 
-### 🎨 Frontend Development
+### Frontend Development
 
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark"/>
 
-### ⚙️ Backend Development
+### Backend Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 
-### 🗄️ Database & Developer Tools
+### Databases & Tools
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vscode&theme=dark"/>
 
 </div>
 
-### 📊 Business & Analytical Interests
+### Business & Analytical Interests
 
-- Data Analysis and Data Storytelling.
-- Power BI and Business Intelligence.
-- Product Strategy and Product Development.
-- Market Research and Customer Understanding.
-- Business Development and Growth.
-- AI-powered Business Solutions.
+- Artificial Intelligence and AI-powered solutions.
+- Data Analysis and Business Intelligence.
+- Product Development and Product Strategy.
+- Business Development and Market Research.
+- Sales, Marketing and Growth Strategies.
+- Customer Understanding and Problem Solving.
 
 ---
 
@@ -127,14 +135,13 @@ I'm particularly interested in opportunities where I can understand customer nee
 
 A centralized digital platform designed to streamline complaint management in educational institutions.
 
-- Student complaint submission.
-- Location-based tracking.
+- Location-based complaint submission.
 - Anonymous complaint functionality.
 - Admin management dashboard.
 - Automated complaint escalation.
 - Email and notification integration.
 
-**Core Focus:** Transparency, Accountability and Digital Transformation.
+**Focus:** Transparency, Accountability and Digital Transformation.
 
 `MERN STACK` `REST API` `AUTOMATION`
 
@@ -145,15 +152,15 @@ A centralized digital platform designed to streamline complaint management in ed
 
 **Full-Stack Development Learning Platform**
 
-A responsive learning platform designed to help beginners explore full-stack development.
+A responsive platform designed to help beginners explore full-stack development.
 
 - Structured learning paths.
 - HTML, CSS and JavaScript courses.
 - React, Node.js and MongoDB learning sections.
-- Interactive course navigation.
-- Dynamic UI and dark mode.
+- Interactive navigation.
+- Dark mode and dynamic UI.
 
-**Core Focus:** Interactive Learning and User Experience.
+**Focus:** Interactive Learning and User Experience.
 
 `HTML5` `CSS3` `JAVASCRIPT`
 
@@ -215,14 +222,13 @@ A responsive learning platform designed to help beginners explore full-stack dev
 
 ### Frontend Developer Intern — Saemos
 
-<badge color="success">May 2026 – June 2026 · 2 Months</badge>
+**May 2026 – June 2026 | 2 Months**
 
 - Developed responsive user interfaces for modern web applications.
 - Created reusable frontend components.
 - Applied component-based architecture.
 - Focused on accessibility, usability, and UI consistency.
 - Followed modern frontend development practices.
-- Improved maintainability and user experience.
 
 ---
 
@@ -266,9 +272,7 @@ Open to learning, collaboration, internships, and opportunities where I can cont
 
 ### THINK BIG. BUILD SMART. CREATE IMPACT.
 
-**"Technology creates possibilities. Business creates opportunities. Innovation brings them together."**
-
-<br/>
+*"Technology creates possibilities. Business creates opportunities. Innovation brings them together."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00F5B8,45:174B65,100:050816&animation=twinkling" width="100%"/>
 
