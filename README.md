@@ -1,282 +1,275 @@
-<div align="center">
-
-<!-- SPACE ANIMATION HEADER -->
-
-<h1>
-  <span>🌙</span>
-  TANISH UTTAM
-  <span>🚀</span>
-</h1>
-
-<p>
-  ✦　·　˚　　✧　　🌟　　·　　˚　✦
-</p>
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=00F5B8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+Technology+Enthusiast;Product+%26+Business+Explorer;Data+Driven+Problem+Solver;Building+Ideas+Into+Reality+%F0%9F%9A%80"/>
-</p>
-
-<p>
-  🌌 ✨ 🛰️　<code>MISSION: INNOVATION</code>　🛸 ✨ 🌌
-</p>
-
-</div>
-
----
-
-<!-- ANIMATED SPACE DIVIDER -->
-
-<div align="center">
-
-🌟 ──────── ✦ ──────── 🌙 ──────── ✦ ──────── 🚀
-
-</div>
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,30:101D3A,65:174B65,100:00F5B8&text=TANISH%20UTTAM&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=TECHNOLOGY%20%7C%20BUSINESS%20%7C%20INNOVATION&descSize=17&descAlignY=60&animation=twinkling" width="100%"/>
+<!-- 🌌 FUTURISTIC SPACE HEADER -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00F5B8&center=true&vCenter=true&width=850&lines=Computer+Science+Student+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Product+Enthusiast+%F0%9F%A4%96;Business+%26+Growth+Minded+%F0%9F%93%88;Turning+Ideas+Into+Impactful+Solutions+%E2%9C%A8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:050816,25:101D35,55:163D50,100:00F5B8&text=TANISH%20UTTAM&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=TECHNOLOGY%20%E2%80%A2%20BUSINESS%20%E2%80%A2%20INNOVATION&descSize=16&descAlignY=62&animation=twinkling"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=tanishuttam&style=for-the-badge&color=00F5B8&label=PROFILE+VISITORS"/>
+🌙　✨　🪐　🚀　⭐　🛰️　☄️　✨
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=19&duration=2200&pause=700&color=00F5B8&center=true&vCenter=true&width=850&lines=FULL+STACK+DEVELOPER;AI+%26+TECHNOLOGY+ENTHUSIAST;PRODUCT+%26+BUSINESS+EXPLORER;DATA-DRIVEN+PROBLEM+SOLVER;BUILDING+IDEAS+INTO+REALITY+%F0%9F%9A%80"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=tanishuttam&style=for-the-badge&color=00F5B8&label=SPACE+VISITORS"/>
 <img src="https://img.shields.io/github/followers/tanishuttam?style=for-the-badge&color=8B5CF6&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/tanishuttam?style=for-the-badge&color=00D9FF&label=STARS"/>
 
 <br/><br/>
 
-**TECHNOLOGY × BUSINESS × DATA × INNOVATION**
+**`EXPLORE • BUILD • ANALYZE • INNOVATE`**
+
+🌌 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🌌
 
 </div>
 
+# 👨‍🚀 ABOUT THE DEVELOPER
+
+Hey there! I'm **Tanish Uttam**, a Computer Science and Engineering student at Sanskriti University, passionate about technology, business innovation, product development, and solving real-world problems.
+
+I believe that great ideas become successful products when technology meets business understanding, creativity, data, and user experience.
+
+With a foundation in programming, web development, databases, and analytical thinking, I enjoy exploring different areas of the technology and business ecosystem.
+
+I've worked on projects like **The Grievance Hub – Smart Campus Complaint Management System** and **StackStart – Full-Stack Development Learning Platform**. I've also gained professional experience as a **Frontend Developer Intern at Saemos**.
+
+Beyond coding, I'm interested in understanding how products are conceptualized, developed, marketed, analyzed, and scaled.
+
+### ✨ My Interests
+
+- 🤖 Artificial Intelligence and AI-powered solutions.
+- 🚀 Product Management and Product Development.
+- 📊 Data Analytics and Business Intelligence.
+- 💼 Business Development and Growth Strategies.
+- 📈 Sales, Marketing and Market Research.
+- 💻 Full-Stack Development and Software Engineering.
+- 🧠 Problem Solving, Innovation and Strategic Thinking.
+
+### 🎯 My Mindset
+
+**Think beyond code. Understand problems. Build solutions. Create impact.**
+
 ---
 
-# 👨‍💻 About Me
-
-Hello! I'm **Tanish Uttam**, a Computer Science and Engineering student at Sanskriti University, passionate about technology, business innovation, product development, and solving real-world problems.
-
-I believe that building great products requires more than just writing code. It requires understanding users, identifying problems, analysing data, developing business strategies, and transforming ideas into solutions that create meaningful impact.
-
-With a foundation in programming, web development, databases, and analytical thinking, I enjoy exploring the intersection of technology and business.
-
-I have worked on projects like **The Grievance Hub – Smart Campus Complaint Management System** and **StackStart – Full-Stack Development Learning Platform**, gaining practical experience in building user-focused digital solutions. I have also worked as a **Frontend Developer Intern at Saemos**, where I contributed to responsive user interfaces and reusable components.
-
-Beyond development, I'm interested in understanding how products are planned, launched, marketed, analysed, and scaled.
-
-### 🎯 What Drives Me
-
-- 💡 Identifying real-world problems and converting them into practical solutions.
-- 🤖 Exploring Artificial Intelligence and emerging technologies.
-- 📊 Analysing data to discover insights and support better decisions.
-- 🚀 Understanding product development, user experience, and product strategy.
-- 📈 Exploring business development, growth strategies, and market opportunities.
-- 🤝 Collaborating with teams, communicating ideas, and learning through challenges.
-
----
-
-# 🌐 Open to Opportunities
+# 🌐 OPEN TO OPPORTUNITIES
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-00C853?style=for-the-badge&logo=handshake&logoColor=white"/>
-<img src="https://img.shields.io/badge/INTERNSHIPS%20%26%20ENTRY%20LEVEL-00E5FF?style=for-the-badge&logo=rocket&logoColor=black"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS%20%26%20OPPORTUNITIES-00F5B8?style=for-the-badge&logo=handshake&logoColor=black"/>
 
-### Exploring Opportunities Across Technology, Product & Business
+### Technology × Product × Business × Analytics
 
 </div>
 
-I'm actively interested in exploring internship opportunities, entry-level positions, and professional experiences across multiple domains where I can combine my technical foundation, analytical abilities, creativity, and business understanding.
+I'm actively exploring internship opportunities, entry-level roles, and collaborative experiences across technology, business, product, and analytical domains.
 
-| Domain | Roles I'm Interested In |
+| Domain | Interested Roles |
 |---|---|
-| 🤖 Artificial Intelligence | AI Intern, AI Associate, AI Product Roles |
+| 🤖 Artificial Intelligence | AI Intern, AI Associate, AI Product Associate |
 | 🚀 Product Management | Product Management Intern, Associate Product Manager |
 | 📊 Product Analytics | Product Analyst, Product Operations Associate |
 | 📈 Data & Analytics | Data Analyst Intern, Business Analyst |
-| 💼 Business Development | Business Development Associate, BDA, Business Development Intern |
-| 📣 Sales & Marketing | Sales Associate, Marketing Intern, Digital Marketing |
+| 💼 Business Development | Business Development Associate (BDA), Business Development Intern |
+| 📣 Sales | Sales Associate, Sales Development Representative (SDR) |
+| 📢 Marketing | Digital Marketing Intern, Marketing Associate |
 | 🌱 Growth & Strategy | Growth Associate, Strategy & Operations Intern |
 | 💻 Software Development | Frontend Developer, Full Stack Developer, MERN Stack Developer |
 
-**My approach:** I am open to learning, adapting, taking ownership, and contributing wherever technology, business thinking, data, and problem-solving come together.
+**What I bring:** A technical foundation, curiosity about business, analytical thinking, communication skills, creativity, and willingness to learn.
 
-I particularly enjoy opportunities where I can work with people, understand customer needs, analyse problems, and help build or grow impactful products.
+I'm particularly interested in opportunities where I can understand customer needs, identify business problems, analyze information, collaborate with teams, and contribute to building or growing impactful products.
 
 ---
 
-# ⚡ Technical Skills & Technology Stack
+# 🛸 TECHNOLOGY COMMAND CENTER
 
-### Programming Languages
+<div align="center">
+
+### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=js,python,java,html,css&theme=dark"/>
 
-### Frontend Development
+### 🎨 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark"/>
 
-### Backend Development
+### ⚙️ Backend Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 
-### Databases & Developer Tools
+### 🗄️ Database & Developer Tools
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vscode&theme=dark"/>
 
-### Other Areas of Interest
+</div>
 
-- Artificial Intelligence & AI-powered applications
-- Product Development & Product Strategy
-- Data Analysis & Data Storytelling
-- Business Development & Market Research
-- Customer Understanding & Growth Strategies
-- Problem Solving & Analytical Thinking
+### 📊 Business & Analytical Interests
 
----
-
-# 📊 My Core Strengths
-
-| Area | Strengths |
-|---|---|
-| Technical | Web development, programming, databases |
-| Analytical | Analytical thinking, problem-solving, data storytelling |
-| Business | Understanding business problems and opportunities |
-| Communication | Effective communication and team collaboration |
-| Creative | Creativity, adaptability, learning mindset |
-| Execution | Time management, structured implementation |
+- Data Analysis and Data Storytelling.
+- Power BI and Business Intelligence.
+- Product Strategy and Product Development.
+- Market Research and Customer Understanding.
+- Business Development and Growth.
+- AI-powered Business Solutions.
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 FEATURED PROJECTS
 
-### 01. The Grievance Hub
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔷 The Grievance Hub
 
 **Smart Campus Complaint Management System**
 
-A digital platform designed to streamline complaint management within educational institutions.
+A centralized digital platform designed to streamline complaint management in educational institutions.
 
-- Student complaint submission with detailed descriptions and location tracking.
-- Anonymous complaint functionality for privacy.
-- Admin dashboard to manage, assign, and track complaints.
-- Automated escalation for unresolved complaints.
-- Email and notification-based updates.
+- Student complaint submission.
+- Location-based tracking.
+- Anonymous complaint functionality.
+- Admin management dashboard.
+- Automated complaint escalation.
+- Email and notification integration.
 
-**Problem Solved:** Improving transparency, accountability, and complaint resolution efficiency.
+**Core Focus:** Transparency, Accountability and Digital Transformation.
 
-`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs`
+`MERN STACK` `REST API` `AUTOMATION`
 
-### 02. StackStart
+</td>
+<td width="50%" valign="top">
+
+### 🟣 StackStart
 
 **Full-Stack Development Learning Platform**
 
-A responsive educational platform designed to make full-stack development easier for beginners.
+A responsive learning platform designed to help beginners explore full-stack development.
 
 - Structured learning paths.
-- HTML, CSS, JavaScript, React, Node.js and MongoDB learning sections.
-- Interactive navigation and course exploration.
-- Dynamic UI interactions and dark mode.
-- Beginner-friendly learning experience.
+- HTML, CSS and JavaScript courses.
+- React, Node.js and MongoDB learning sections.
+- Interactive course navigation.
+- Dynamic UI and dark mode.
 
-**Problem Solved:** Making technical learning more accessible and structured.
+**Core Focus:** Interactive Learning and User Experience.
 
-`HTML5` `CSS3` `JavaScript`
+`HTML5` `CSS3` `JAVASCRIPT`
+
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
-
-<p>
-  ✧･ﾟ: *✧･ﾟ:*　🌌　*:･ﾟ✧*:･ﾟ✧
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&duration=3000&pause=1000&color=00F5B8&center=true&vCenter=true&width=400&lines=EXPLORING+THE+DIGITAL+UNIVERSE+%F0%9F%9A%80"/>
-
-<p>
-  🪐　⭐　☄️　🌙　🛰️　🚀
-</p>
-
-</div>
-
-# 📡 GitHub Analytics Dashboard
+# 📡 GITHUB ANALYTICS CENTER
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanishuttam&show_icons=true&theme=transparent&hide_border=true&title_color=00F5B8&icon_color=00F5B8&text_color=C9D1D9&bg_color=080D16"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanishuttam&show_icons=true&theme=transparent&hide_border=true&title_color=00F5B8&icon_color=8B5CF6&text_color=C9D1D9&bg_color=080D16&rank_icon=github"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishuttam&layout=compact&theme=transparent&hide_border=true&title_color=00F5B8&text_color=C9D1D9&bg_color=080D16"/>
 
 <br/><br/>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=tanishuttam&theme=transparent&hide_border=true&ring=00F5B8&fire=00F5B8&currStreakLabel=00F5B8&background=080D16"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=tanishuttam&theme=transparent&hide_border=true&ring=00F5B8&fire=8B5CF6&currStreakLabel=00F5B8&background=080D16"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Activity
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/tanishuttam/tanishuttam/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishuttam&bg_color=080D16&color=00F5B8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+# 🌠 DEVELOPER ACTIVITY
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanishuttam&bg_color=080D16&color=00F5B8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=TANISH%20-%20DEVELOPER%20ACTIVITY"/>
 
 </div>
 
 ---
 
-# 🏆 Achievements & Certifications
+# 🏆 ACHIEVEMENTS & CERTIFICATIONS
 
-- 🥇 **Smart India Hackathon 2024:** Participated in developing a cultural heritage tourism platform with itinerary planning, hotel discovery, and local cuisine modules.
-- 🚀 **AI Startup Buildathon 2026:** Participated in the Beauty Salon Marketplace Challenge, part of SuperXgen AI.
-- 📊 **Power BI Training:** Completed Government of India / MeitY-backed training programme.
-- 🎓 **Full-Stack Web Development:** University of London (Goldsmiths), via Coursera.
-- 🤖 **Google AI Professional Certificate:** Google, via Coursera.
+| Achievement | Details |
+|---|---|
+| 🥇 Smart India Hackathon 2024 | Cultural Heritage Tourism Platform |
+| 🚀 AI Startup Buildathon 2026 | Beauty Salon Marketplace Challenge |
+| 📊 Power BI Training | Government of India / MeitY-backed |
+| 🎓 Full-Stack Development | University of London (Goldsmiths), Coursera |
+| 🤖 Google AI Professional | Google, Coursera |
 
 ---
 
-# 💼 Professional Experience
+# 💼 PROFESSIONAL EXPERIENCE
 
 ### Frontend Developer Intern — Saemos
 
-**May 2026 – June 2026**
+<badge color="success">May 2026 – June 2026 · 2 Months</badge>
 
 - Developed responsive user interfaces for modern web applications.
-- Built reusable components using component-based architecture.
-- Focused on accessibility, usability, and consistent design.
+- Created reusable frontend components.
+- Applied component-based architecture.
+- Focused on accessibility, usability, and UI consistency.
 - Followed modern frontend development practices.
-- Improved code maintainability and user experience.
+- Improved maintainability and user experience.
 
 ---
 
-# 🎓 Education
+# 🎓 EDUCATION
 
-**Bachelor of Technology — Computer Science & Engineering**
+### Bachelor of Technology — Computer Science & Engineering
 
-Sanskriti University, Mathura, Uttar Pradesh
+**Sanskriti University, Mathura, Uttar Pradesh**
 
 August 2023 – Present
 
-**Relevant Coursework:** Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks, Object-Oriented Programming, Artificial Intelligence, Cloud Computing.
+**Relevant Coursework:**
+
+Data Structures & Algorithms · DBMS · Operating Systems · Computer Networks · Object-Oriented Programming · Artificial Intelligence · Cloud Computing
 
 ---
 
-# 🤝 Let's Connect & Collaborate
+# 🤝 LET'S CONNECT
 
-I'm always excited to connect with developers, founders, recruiters, product managers, business professionals, and people working on innovative ideas.
+I'm always excited to connect with developers, recruiters, founders, product managers, business professionals, and people working on innovative ideas.
 
-Whether it's technology, AI, product development, analytics, business growth, or an interesting collaboration, I'd love to connect and learn.
+Open to learning, collaboration, internships, and opportunities where I can contribute my technical knowledge and business-oriented mindset.
 
 <div align="center">
 
-<a href="https://github.com/tanishuttam"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5B8"/></a>
-<a href="https://linkedin.com/in/tanish-uttam"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5B8"/></a>
-<a href="mailto:uttamtanish44@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+<a href="https://github.com/tanishuttam">
+<img src="https://img.shields.io/badge/GITHUB-080D16?style=for-the-badge&logo=github&logoColor=00F5B8"/>
+</a>
+
+<a href="https://linkedin.com/in/tanish-uttam">
+<img src="https://img.shields.io/badge/LINKEDIN-080D16?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
+</a>
+
+<a href="mailto:uttamtanish44@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-080D16?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 
 <br/><br/>
 
-### 🚀 THINK BIG. BUILD SMART. CREATE IMPACT.
+🌙　⭐　🪐　🚀　🛰️　✨　☄️
 
-*"Technology creates possibilities. Business creates opportunities. Innovation brings them together."*
+### THINK BIG. BUILD SMART. CREATE IMPACT.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5B8,50:102A35,100:080D16&animation=twinkling" width="100%"/>
+**"Technology creates possibilities. Business creates opportunities. Innovation brings them together."**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00F5B8,45:174B65,100:050816&animation=twinkling" width="100%"/>
 
 </div>
