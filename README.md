@@ -23,7 +23,7 @@
 <tr>
 <td width="34%" align="center" valign="middle">
 
-<img src="./288834905.jpg" width="230" alt="Tanish Uttam Profile Photo"/>
+<img src="./IMG_1074.jpeg" width="230" alt="Tanish Uttam Profile Photo"/>
 
 <br/><br/>
 
