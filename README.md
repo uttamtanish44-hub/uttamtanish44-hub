@@ -1,7 +1,35 @@
 <div align="center">
-  <img src="./space-animation.gif"
-       width="100%"
-       alt="Tanish futuristic space animation"/>
+
+<!-- SPACE ANIMATION HEADER -->
+
+<h1>
+  <span>🌙</span>
+  TANISH UTTAM
+  <span>🚀</span>
+</h1>
+
+<p>
+  ✦　·　˚　　✧　　🌟　　·　　˚　✦
+</p>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=00F5B8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+Technology+Enthusiast;Product+%26+Business+Explorer;Data+Driven+Problem+Solver;Building+Ideas+Into+Reality+%F0%9F%9A%80"/>
+</p>
+
+<p>
+  🌌 ✨ 🛰️　<code>MISSION: INNOVATION</code>　🛸 ✨ 🌌
+</p>
+
+</div>
+
+---
+
+<!-- ANIMATED SPACE DIVIDER -->
+
+<div align="center">
+
+🌟 ──────── ✦ ──────── 🌙 ──────── ✦ ──────── 🚀
+
 </div>
  <div align="center">
 
@@ -152,6 +180,20 @@ A responsive educational platform designed to make full-stack development easier
 `HTML5` `CSS3` `JavaScript`
 
 ---
+
+<div align="center">
+
+<p>
+  ✧･ﾟ: *✧･ﾟ:*　🌌　*:･ﾟ✧*:･ﾟ✧
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&duration=3000&pause=1000&color=00F5B8&center=true&vCenter=true&width=400&lines=EXPLORING+THE+DIGITAL+UNIVERSE+%F0%9F%9A%80"/>
+
+<p>
+  🪐　⭐　☄️　🌙　🛰️　🚀
+</p>
+
+</div>
 
 # 📡 GitHub Analytics Dashboard
 
